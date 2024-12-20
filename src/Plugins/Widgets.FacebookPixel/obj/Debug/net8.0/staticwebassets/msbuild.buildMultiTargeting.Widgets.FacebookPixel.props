@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Widgets.FacebookPixel.props" />
+</Project>

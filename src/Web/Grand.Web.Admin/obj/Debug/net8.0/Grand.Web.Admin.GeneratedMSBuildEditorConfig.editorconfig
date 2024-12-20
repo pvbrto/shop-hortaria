@@ -1,0 +1,2339 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Grand.Web.Admin
+build_property.RootNamespace = Grand.Web.Admin
+build_property.ProjectDir = /Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = /Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/AddressAttribute/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRkcmVzc0F0dHJpYnV0ZS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/AddressAttribute/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRkcmVzc0F0dHJpYnV0ZS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/AddressAttribute/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRkcmVzc0F0dHJpYnV0ZS9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/AddressAttribute/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRkcmVzc0F0dHJpYnV0ZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/AddressAttribute/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRkcmVzc0F0dHJpYnV0ZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/AddressAttribute/Partials/CreateOrUpdate.TabValues.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRkcmVzc0F0dHJpYnV0ZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJWYWx1ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/AddressAttribute/Partials/CreateOrUpdateValue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRkcmVzc0F0dHJpYnV0ZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZVZhbHVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/AddressAttribute/ValueCreatePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRkcmVzc0F0dHJpYnV0ZS9WYWx1ZUNyZWF0ZVBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/AddressAttribute/ValueEditPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRkcmVzc0F0dHJpYnV0ZS9WYWx1ZUVkaXRQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Affiliate/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWZmaWxpYXRlL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Affiliate/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWZmaWxpYXRlL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Affiliate/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWZmaWxpYXRlL0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Affiliate/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWZmaWxpYXRlL1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Affiliate/Partials/CreateOrUpdate.TabCustomers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWZmaWxpYXRlL1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLlRhYkN1c3RvbWVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Affiliate/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWZmaWxpYXRlL1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLlRhYkluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Affiliate/Partials/CreateOrUpdate.TabOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWZmaWxpYXRlL1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLlRhYk9yZGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ApiUser/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQXBpVXNlci9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Blog/BlogPostAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9CbG9nUG9zdEFkZFBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Blog/CategoryCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9DYXRlZ29yeUNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Blog/CategoryEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9DYXRlZ29yeUVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Blog/CategoryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9DYXRlZ29yeUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Blog/Comments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9Db21tZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Blog/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Blog/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Blog/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Blog/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Blog/Partials/CreateOrUpdate.TabComments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJDb21tZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Blog/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Blog/Partials/CreateOrUpdate.TabProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Blog/Partials/CreateOrUpdate.TabSeo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJTZW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Blog/Partials/CreateOrUpdateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZUNhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Blog/Partials/CreateOrUpdateCategory.Posts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZUNhdGVnb3J5LlBvc3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Blog/Partials/CreateOrUpdateCategory.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZUNhdGVnb3J5LlRhYkluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Blog/ProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9Qcm9kdWN0QWRkUG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Brand/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQnJhbmQvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Brand/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQnJhbmQvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Brand/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQnJhbmQvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Brand/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQnJhbmQvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Brand/Partials/CreateOrUpdate.TabDiscounts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQnJhbmQvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiRGlzY291bnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Brand/Partials/CreateOrUpdate.TabDocuments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQnJhbmQvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiRG9jdW1lbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Brand/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQnJhbmQvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Brand/Partials/CreateOrUpdate.TabSeo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQnJhbmQvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiU2VvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Campaign/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2FtcGFpZ24vQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Campaign/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2FtcGFpZ24vRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Campaign/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2FtcGFpZ24vTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Campaign/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2FtcGFpZ24vUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Campaign/Partials/CreateOrUpdate.TabConditions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2FtcGFpZ24vUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiQ29uZGl0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Campaign/Partials/CreateOrUpdate.TabEmails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2FtcGFpZ24vUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiRW1haWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Campaign/Partials/CreateOrUpdate.TabHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2FtcGFpZ24vUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiSGlzdG9yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Campaign/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2FtcGFpZ24vUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Campaign/Partials/CreateOrUpdate.TabTest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2FtcGFpZ24vUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiVGVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2F0ZWdvcnkvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2F0ZWdvcnkvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Category/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2F0ZWdvcnkvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Category/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2F0ZWdvcnkvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Category/Partials/CreateOrUpdate.TabDiscounts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2F0ZWdvcnkvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiRGlzY291bnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Category/Partials/CreateOrUpdate.TabDocuments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2F0ZWdvcnkvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiRG9jdW1lbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Category/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2F0ZWdvcnkvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Category/Partials/CreateOrUpdate.TabProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2F0ZWdvcnkvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Category/Partials/CreateOrUpdate.TabSeo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2F0ZWdvcnkvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiU2VvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Category/ProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2F0ZWdvcnkvUHJvZHVjdEFkZFBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CheckoutAttribute/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2hlY2tvdXRBdHRyaWJ1dGUvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CheckoutAttribute/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2hlY2tvdXRBdHRyaWJ1dGUvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CheckoutAttribute/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2hlY2tvdXRBdHRyaWJ1dGUvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CheckoutAttribute/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2hlY2tvdXRBdHRyaWJ1dGUvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CheckoutAttribute/Partials/CreateOrUpdate.TabCondition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2hlY2tvdXRBdHRyaWJ1dGUvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiQ29uZGl0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CheckoutAttribute/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2hlY2tvdXRBdHRyaWJ1dGUvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CheckoutAttribute/Partials/CreateOrUpdate.TabValues.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2hlY2tvdXRBdHRyaWJ1dGUvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiVmFsdWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CheckoutAttribute/Partials/CreateOrUpdateValue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2hlY2tvdXRBdHRyaWJ1dGUvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGVWYWx1ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CheckoutAttribute/ValueCreatePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2hlY2tvdXRBdHRyaWJ1dGUvVmFsdWVDcmVhdGVQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CheckoutAttribute/ValueEditPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2hlY2tvdXRBdHRyaWJ1dGUvVmFsdWVFZGl0UG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Collection/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29sbGVjdGlvbi9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Collection/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29sbGVjdGlvbi9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Collection/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29sbGVjdGlvbi9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Collection/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29sbGVjdGlvbi9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Collection/Partials/CreateOrUpdate.TabDiscounts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29sbGVjdGlvbi9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJEaXNjb3VudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Collection/Partials/CreateOrUpdate.TabDocuments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29sbGVjdGlvbi9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJEb2N1bWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Collection/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29sbGVjdGlvbi9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Collection/Partials/CreateOrUpdate.TabProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29sbGVjdGlvbi9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Collection/Partials/CreateOrUpdate.TabSeo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29sbGVjdGlvbi9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJTZW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Collection/ProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29sbGVjdGlvbi9Qcm9kdWN0QWRkUG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ContactAttribute/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29udGFjdEF0dHJpYnV0ZS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ContactAttribute/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29udGFjdEF0dHJpYnV0ZS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ContactAttribute/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29udGFjdEF0dHJpYnV0ZS9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ContactAttribute/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29udGFjdEF0dHJpYnV0ZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ContactAttribute/Partials/CreateOrUpdate.TabCondition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29udGFjdEF0dHJpYnV0ZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJDb25kaXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ContactAttribute/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29udGFjdEF0dHJpYnV0ZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ContactAttribute/Partials/CreateOrUpdate.TabValues.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29udGFjdEF0dHJpYnV0ZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJWYWx1ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ContactAttribute/Partials/CreateOrUpdateValue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29udGFjdEF0dHJpYnV0ZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZVZhbHVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ContactAttribute/ValueCreatePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29udGFjdEF0dHJpYnV0ZS9WYWx1ZUNyZWF0ZVBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ContactAttribute/ValueEditPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29udGFjdEF0dHJpYnV0ZS9WYWx1ZUVkaXRQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ContactForm/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29udGFjdEZvcm0vRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ContactForm/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ29udGFjdEZvcm0vTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Country/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291bnRyeS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Country/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291bnRyeS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Country/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291bnRyeS9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Country/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291bnRyeS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Country/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291bnRyeS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Country/Partials/CreateOrUpdate.TabStates.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291bnRyeS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJTdGF0ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Country/Partials/CreateOrUpdateState.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291bnRyeS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZVN0YXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Country/StateCreatePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291bnRyeS9TdGF0ZUNyZWF0ZVBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Country/StateEditPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291bnRyeS9TdGF0ZUVkaXRQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Course/AssociateProductToCoursePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291cnNlL0Fzc29jaWF0ZVByb2R1Y3RUb0NvdXJzZVBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Course/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291cnNlL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Course/CreateLesson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291cnNlL0NyZWF0ZUxlc3Nvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Course/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291cnNlL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Course/EditLesson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291cnNlL0VkaXRMZXNzb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Course/Level.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291cnNlL0xldmVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Course/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291cnNlL0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Course/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291cnNlL1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Course/Partials/CreateOrUpdate.Lesson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291cnNlL1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLkxlc3Nvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Course/Partials/CreateOrUpdate.Subject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291cnNlL1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLlN1YmplY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Course/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291cnNlL1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLlRhYkluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Course/Partials/CreateOrUpdate.TabSeo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291cnNlL1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLlRhYlNlby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Course/Partials/Lesson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291cnNlL1BhcnRpYWxzL0xlc3Nvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Course/Partials/Lesson.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ291cnNlL1BhcnRpYWxzL0xlc3Nvbi5UYWJJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Currency/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VycmVuY3kvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Currency/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VycmVuY3kvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Currency/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VycmVuY3kvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Currency/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VycmVuY3kvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Currency/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VycmVuY3kvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/AddressCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvQWRkcmVzc0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/AddressEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvQWRkcmVzc0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/Partials/CreateOrUpdate.Documents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuRG9jdW1lbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/Partials/CreateOrUpdate.TabActivityLog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiQWN0aXZpdHlMb2cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/Partials/CreateOrUpdate.TabAddresses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiQWRkcmVzc2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/Partials/CreateOrUpdate.TabCurrentShoppingCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiQ3VycmVudFNob3BwaW5nQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/Partials/CreateOrUpdate.TabCurrentWishlist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiQ3VycmVudFdpc2hsaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/Partials/CreateOrUpdate.TabLoyaltyPoints.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiTG95YWx0eVBvaW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/Partials/CreateOrUpdate.TabNotes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiTm90ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/Partials/CreateOrUpdate.TabOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiT3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/Partials/CreateOrUpdate.TabOutOfStockSubscriptions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiT3V0T2ZTdG9ja1N1YnNjcmlwdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/Partials/CreateOrUpdate.TabProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/Partials/CreateOrUpdate.TabProductPrice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiUHJvZHVjdFByaWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/Partials/CreateOrUpdate.TabReviews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiUmV2aWV3cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/Partials/CreateOrUpdateAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGVBZGRyZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/Partials/CustomerAttributes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvUGFydGlhbHMvQ3VzdG9tZXJBdHRyaWJ1dGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/Partials/SendEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvUGFydGlhbHMvU2VuZEVtYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Customer/ProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvUHJvZHVjdEFkZFBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerAttribute/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJBdHRyaWJ1dGUvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerAttribute/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJBdHRyaWJ1dGUvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerAttribute/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJBdHRyaWJ1dGUvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerAttribute/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJBdHRyaWJ1dGUvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerAttribute/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJBdHRyaWJ1dGUvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerAttribute/Partials/CreateOrUpdate.TabValues.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJBdHRyaWJ1dGUvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiVmFsdWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerAttribute/Partials/CreateOrUpdateValue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJBdHRyaWJ1dGUvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGVWYWx1ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerAttribute/ValueCreatePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJBdHRyaWJ1dGUvVmFsdWVDcmVhdGVQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerAttribute/ValueEditPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJBdHRyaWJ1dGUvVmFsdWVFZGl0UG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerGroup/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJHcm91cC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerGroup/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJHcm91cC9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerGroup/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJHcm91cC9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerGroup/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJHcm91cC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerGroup/Partials/CreateOrUpdate.TabAcl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJHcm91cC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJBY2wuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerGroup/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJHcm91cC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerGroup/Partials/CreateOrUpdate.TabProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJHcm91cC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerGroup/ProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJHcm91cC9Qcm9kdWN0QWRkUG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerTag/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJUYWcvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerTag/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJUYWcvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerTag/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJUYWcvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerTag/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJUYWcvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerTag/Partials/CreateOrUpdate.TabCustomers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJUYWcvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiQ3VzdG9tZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerTag/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJUYWcvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerTag/Partials/CreateOrUpdate.TabProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJUYWcvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/CustomerTag/ProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJUYWcvUHJvZHVjdEFkZFBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Discount/BrandAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGlzY291bnQvQnJhbmRBZGRQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Discount/CategoryAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGlzY291bnQvQ2F0ZWdvcnlBZGRQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Discount/CollectionAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGlzY291bnQvQ29sbGVjdGlvbkFkZFBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Discount/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGlzY291bnQvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Discount/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGlzY291bnQvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Discount/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGlzY291bnQvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Discount/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGlzY291bnQvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Discount/Partials/CreateOrUpdate.TabAppliedToBrands.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGlzY291bnQvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiQXBwbGllZFRvQnJhbmRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Discount/Partials/CreateOrUpdate.TabAppliedToCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGlzY291bnQvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiQXBwbGllZFRvQ2F0ZWdvcmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Discount/Partials/CreateOrUpdate.TabAppliedToCollections.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGlzY291bnQvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiQXBwbGllZFRvQ29sbGVjdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Discount/Partials/CreateOrUpdate.TabAppliedToProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGlzY291bnQvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiQXBwbGllZFRvUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Discount/Partials/CreateOrUpdate.TabAppliedToVendors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGlzY291bnQvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiQXBwbGllZFRvVmVuZG9ycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Discount/Partials/CreateOrUpdate.TabCouponCodes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGlzY291bnQvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiQ291cG9uQ29kZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Discount/Partials/CreateOrUpdate.TabHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGlzY291bnQvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiSGlzdG9yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Discount/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGlzY291bnQvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Discount/Partials/CreateOrUpdate.TabRequirements.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGlzY291bnQvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiUmVxdWlyZW1lbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Discount/ProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGlzY291bnQvUHJvZHVjdEFkZFBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Discount/VendorAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGlzY291bnQvVmVuZG9yQWRkUG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Document/CreateDocument.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRG9jdW1lbnQvQ3JlYXRlRG9jdW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Document/CreateType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRG9jdW1lbnQvQ3JlYXRlVHlwZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Document/EditDocument.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRG9jdW1lbnQvRWRpdERvY3VtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Document/EditType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRG9jdW1lbnQvRWRpdFR5cGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Document/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRG9jdW1lbnQvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Document/Partials/CreateOrUpdateDocument.Account.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRG9jdW1lbnQvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGVEb2N1bWVudC5BY2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Document/Partials/CreateOrUpdateDocument.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRG9jdW1lbnQvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGVEb2N1bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Document/Partials/CreateOrUpdateDocument.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRG9jdW1lbnQvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGVEb2N1bWVudC5UYWJJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Document/Partials/CreateOrUpdateType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRG9jdW1lbnQvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGVUeXBlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Document/Types.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRG9jdW1lbnQvVHlwZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/EmailAccount/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRW1haWxBY2NvdW50L0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/EmailAccount/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRW1haWxBY2NvdW50L0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/EmailAccount/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRW1haWxBY2NvdW50L0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/EmailAccount/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRW1haWxBY2NvdW50L1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ExternalAuthentication/Methods.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRXh0ZXJuYWxBdXRoZW50aWNhdGlvbi9NZXRob2RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/GiftVoucher/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvR2lmdFZvdWNoZXIvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/GiftVoucher/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvR2lmdFZvdWNoZXIvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/GiftVoucher/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvR2lmdFZvdWNoZXIvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/GiftVoucher/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvR2lmdFZvdWNoZXIvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/GiftVoucher/Partials/CreateOrUpdate.TabHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvR2lmdFZvdWNoZXIvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiSGlzdG9yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/GiftVoucher/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvR2lmdFZvdWNoZXIvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Home/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSG9tZS9BY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Home/DashboardActivity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSG9tZS9EYXNoYm9hcmRBY3Rpdml0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Home/Statistics.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSG9tZS9TdGF0aXN0aWNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Knowledgebase/ArticlesPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvS25vd2xlZGdlYmFzZS9BcnRpY2xlc1BvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Knowledgebase/CreateArticle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvS25vd2xlZGdlYmFzZS9DcmVhdGVBcnRpY2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Knowledgebase/CreateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvS25vd2xlZGdlYmFzZS9DcmVhdGVDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Knowledgebase/EditArticle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvS25vd2xlZGdlYmFzZS9FZGl0QXJ0aWNsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Knowledgebase/EditCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvS25vd2xlZGdlYmFzZS9FZGl0Q2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Knowledgebase/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvS25vd2xlZGdlYmFzZS9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Knowledgebase/Partials/CreateOrUpdateArticle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvS25vd2xlZGdlYmFzZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZUFydGljbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Knowledgebase/Partials/CreateOrUpdateArticle.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvS25vd2xlZGdlYmFzZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZUFydGljbGUuVGFiSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Knowledgebase/Partials/CreateOrUpdateArticle.TabRelated.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvS25vd2xlZGdlYmFzZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZUFydGljbGUuVGFiUmVsYXRlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Knowledgebase/Partials/CreateOrUpdateArticle.TabSeo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvS25vd2xlZGdlYmFzZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZUFydGljbGUuVGFiU2VvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Knowledgebase/Partials/CreateOrUpdateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvS25vd2xlZGdlYmFzZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZUNhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Knowledgebase/Partials/CreateOrUpdateCategory.TabArticles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvS25vd2xlZGdlYmFzZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZUNhdGVnb3J5LlRhYkFydGljbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Knowledgebase/Partials/CreateOrUpdateCategory.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvS25vd2xlZGdlYmFzZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZUNhdGVnb3J5LlRhYkluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Knowledgebase/Partials/CreateOrUpdateCategory.TabSeo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvS25vd2xlZGdlYmFzZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZUNhdGVnb3J5LlRhYlNlby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Language/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTGFuZ3VhZ2UvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Language/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTGFuZ3VhZ2UvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Language/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTGFuZ3VhZ2UvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Language/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTGFuZ3VhZ2UvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Language/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTGFuZ3VhZ2UvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Language/Partials/CreateOrUpdate.TabResources.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTGFuZ3VhZ2UvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiUmVzb3VyY2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Layout/BrandLayouts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTGF5b3V0L0JyYW5kTGF5b3V0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Layout/CategoryLayouts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTGF5b3V0L0NhdGVnb3J5TGF5b3V0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Layout/CollectionLayouts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTGF5b3V0L0NvbGxlY3Rpb25MYXlvdXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Layout/PageLayouts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTGF5b3V0L1BhZ2VMYXlvdXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Layout/ProductLayouts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTGF5b3V0L1Byb2R1Y3RMYXlvdXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTG9naW4vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Login/TwoFactorAuthorization.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTG9naW4vVHdvRmFjdG9yQXV0aG9yaXphdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Maintenance/CustomCss.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWFpbnRlbmFuY2UvQ3VzdG9tQ3NzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Maintenance/CustomJs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWFpbnRlbmFuY2UvQ3VzdG9tSnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Maintenance/Maintenance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWFpbnRlbmFuY2UvTWFpbnRlbmFuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Maintenance/RobotsTxt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWFpbnRlbmFuY2UvUm9ib3RzVHh0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Maintenance/SeNames.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWFpbnRlbmFuY2UvU2VOYW1lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Measure/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVhc3VyZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Measure/Partials/Dimensions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVhc3VyZS9QYXJ0aWFscy9EaW1lbnNpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Measure/Partials/Units.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVhc3VyZS9QYXJ0aWFscy9Vbml0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Measure/Partials/Weights.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVhc3VyZS9QYXJ0aWFscy9XZWlnaHRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Menu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVudS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Menu/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVudS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Menu/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVudS9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Menu/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVudS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Menu/Partials/CreateOrUpdate.TabChild.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVudS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJDaGlsZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Menu/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVudS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Menu/Partials/CreateOrUpdate.TabPermission.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVudS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJQZXJtaXNzaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/MerchandiseReturn/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVyY2hhbmRpc2VSZXR1cm4vRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/MerchandiseReturn/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVyY2hhbmRpc2VSZXR1cm4vTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/MerchandiseReturn/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVyY2hhbmRpc2VSZXR1cm4vUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/MerchandiseReturn/Partials/CreateOrUpdate.TabAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVyY2hhbmRpc2VSZXR1cm4vUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiQWRkcmVzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/MerchandiseReturn/Partials/CreateOrUpdate.TabDocuments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVyY2hhbmRpc2VSZXR1cm4vUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiRG9jdW1lbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/MerchandiseReturn/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVyY2hhbmRpc2VSZXR1cm4vUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/MerchandiseReturn/Partials/MerchandiseReturnNotes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVyY2hhbmRpc2VSZXR1cm4vUGFydGlhbHMvTWVyY2hhbmRpc2VSZXR1cm5Ob3Rlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/MessageTemplate/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVzc2FnZVRlbXBsYXRlL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/MessageTemplate/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVzc2FnZVRlbXBsYXRlL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/MessageTemplate/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVzc2FnZVRlbXBsYXRlL0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/MessageTemplate/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVzc2FnZVRlbXBsYXRlL1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/MessageTemplate/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTWVzc2FnZVRlbXBsYXRlL1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLlRhYkluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/News/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTmV3cy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/News/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTmV3cy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/News/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTmV3cy9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/News/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTmV3cy9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/News/Partials/CreateOrUpdate.TabComments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTmV3cy9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJDb21tZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/News/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTmV3cy9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/News/Partials/CreateOrUpdate.TabSeo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTmV3cy9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJTZW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/NewsletterCategory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTmV3c2xldHRlckNhdGVnb3J5L0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/NewsletterCategory/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTmV3c2xldHRlckNhdGVnb3J5L0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/NewsletterCategory/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTmV3c2xldHRlckNhdGVnb3J5L0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/NewsletterCategory/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTmV3c2xldHRlckNhdGVnb3J5L1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/NewsletterCategory/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTmV3c2xldHRlckNhdGVnb3J5L1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLlRhYkluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/NewsLetterSubscription/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTmV3c0xldHRlclN1YnNjcmlwdGlvbi9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/OnlineCustomer/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT25saW5lQ3VzdG9tZXIvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Order/AddProductToOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXIvQWRkUHJvZHVjdFRvT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Order/AddProductToOrderDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXIvQWRkUHJvZHVjdFRvT3JkZXJEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Order/AddressEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXIvQWRkcmVzc0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Order/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXIvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Order/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXIvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Order/Partials/CreateOrUpdateAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXIvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGVBZGRyZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Order/Partials/OrderDetails.Addresses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXIvUGFydGlhbHMvT3JkZXJEZXRhaWxzLkFkZHJlc3Nlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Order/Partials/OrderDetails.Documents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXIvUGFydGlhbHMvT3JkZXJEZXRhaWxzLkRvY3VtZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Order/Partials/OrderDetails.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXIvUGFydGlhbHMvT3JkZXJEZXRhaWxzLkluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Order/Partials/OrderDetails.Notes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXIvUGFydGlhbHMvT3JkZXJEZXRhaWxzLk5vdGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Order/Partials/OrderDetails.Notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXIvUGFydGlhbHMvT3JkZXJEZXRhaWxzLk5vdGlmaWNhdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Order/Partials/OrderDetails.Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXIvUGFydGlhbHMvT3JkZXJEZXRhaWxzLlByb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Order/Partials/OrderDetails.Shipment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXIvUGFydGlhbHMvT3JkZXJEZXRhaWxzLlNoaXBtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Order/Partials/ProductAddAttributes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXIvUGFydGlhbHMvUHJvZHVjdEFkZEF0dHJpYnV0ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Order/Partials/ProductAddGiftVoucherInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXIvUGFydGlhbHMvUHJvZHVjdEFkZEdpZnRWb3VjaGVySW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Order/UploadLicenseFilePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXIvVXBsb2FkTGljZW5zZUZpbGVQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/OrderStatus/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXJTdGF0dXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/OrderTags/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXJUYWdzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/OrderTags/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXJUYWdzL0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/OrderTags/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXJUYWdzL1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/OrderTags/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXJUYWdzL1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLlRhYkluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/OrderTags/Partials/CreateOrUpdate.TabOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXJUYWdzL1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLlRhYk9yZGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Page/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGFnZS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Page/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGFnZS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Page/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGFnZS9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Page/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGFnZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Page/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGFnZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Page/Partials/CreateOrUpdate.TabSeo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGFnZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJTZW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Payment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGF5bWVudC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Payment/MethodRestrictions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGF5bWVudC9NZXRob2RSZXN0cmljdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Payment/Partials/MethodRestrictions.TabCountry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGF5bWVudC9QYXJ0aWFscy9NZXRob2RSZXN0cmljdGlvbnMuVGFiQ291bnRyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Payment/Partials/MethodRestrictions.TabShipping.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGF5bWVudC9QYXJ0aWFscy9NZXRob2RSZXN0cmljdGlvbnMuVGFiU2hpcHBpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Payment/Settings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGF5bWVudC9TZXR0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/PaymentTransaction/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGF5bWVudFRyYW5zYWN0aW9uL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/PaymentTransaction/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGF5bWVudFRyYW5zYWN0aW9uL0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/PaymentTransaction/PartiallyPaidPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGF5bWVudFRyYW5zYWN0aW9uL1BhcnRpYWxseVBhaWRQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/PaymentTransaction/PartiallyRefundPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGF5bWVudFRyYW5zYWN0aW9uL1BhcnRpYWxseVJlZnVuZFBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/PaymentTransaction/Partials/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGF5bWVudFRyYW5zYWN0aW9uL1BhcnRpYWxzL1VwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Permission/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGVybWlzc2lvbi9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Permission/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGVybWlzc2lvbi9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Permission/PermissionsAction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGVybWlzc2lvbi9QZXJtaXNzaW9uc0FjdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Permission/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGVybWlzc2lvbi9VcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Plugin/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGx1Z2luL0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/AssociatedProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9Bc3NvY2lhdGVkUHJvZHVjdEFkZFBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/AssociateProductToAttributeValuePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9Bc3NvY2lhdGVQcm9kdWN0VG9BdHRyaWJ1dGVWYWx1ZVBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/AttributeCombinationPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9BdHRyaWJ1dGVDb21iaW5hdGlvblBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/BulkEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9CdWxrRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/BundleProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9CdW5kbGVQcm9kdWN0QWRkUG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/CrossSellProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9Dcm9zc1NlbGxQcm9kdWN0QWRkUG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.Additional.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5BZGRpdGlvbmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.AssociatedProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5Bc3NvY2lhdGVkUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.Bids.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5CaWRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.BundleProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5CdW5kbGVQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.Calendar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5DYWxlbmRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.Categories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5DYXRlZ29yaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.Collections.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5Db2xsZWN0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.CrossSells.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5Dcm9zc1NlbGxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.Discounts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5EaXNjb3VudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.Documents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5Eb2N1bWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5JbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.Inventory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5JbnZlbnRvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.Pictures.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5QaWN0dXJlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.Prices.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5QcmljZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.ProductAttributes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5Qcm9kdWN0QXR0cmlidXRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.ProductAttributes.TabAttributeCombinations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5Qcm9kdWN0QXR0cmlidXRlcy5UYWJBdHRyaWJ1dGVDb21iaW5hdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.ProductAttributes.TabAttributes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5Qcm9kdWN0QXR0cmlidXRlcy5UYWJBdHRyaWJ1dGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.ProductPrices.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5Qcm9kdWN0UHJpY2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.PurchasedWithOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5QdXJjaGFzZWRXaXRoT3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.Recommended.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5SZWNvbW1lbmRlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.RelatedProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5SZWxhdGVkUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.Reviews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5SZXZpZXdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.SEO.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5TRU8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.SimilarProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5TaW1pbGFyUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdate.SpecificationAttributes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5TcGVjaWZpY2F0aW9uQXR0cmlidXRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdateProductAttributeValue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZVByb2R1Y3RBdHRyaWJ1dGVWYWx1ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/CreateOrUpdateTierPrice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZVRpZXJQcmljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/Partials/ProductAttributes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9QYXJ0aWFscy9Qcm9kdWN0QXR0cmlidXRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/ProductAttributeConditionPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9Qcm9kdWN0QXR0cmlidXRlQ29uZGl0aW9uUG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/ProductAttributeMappingPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9Qcm9kdWN0QXR0cmlidXRlTWFwcGluZ1BvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/ProductAttributeValidationRulesPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9Qcm9kdWN0QXR0cmlidXRlVmFsaWRhdGlvblJ1bGVzUG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/ProductAttributeValueCreatePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9Qcm9kdWN0QXR0cmlidXRlVmFsdWVDcmVhdGVQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/ProductAttributeValueEditPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9Qcm9kdWN0QXR0cmlidXRlVmFsdWVFZGl0UG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/ProductPicturePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9Qcm9kdWN0UGljdHVyZVBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/ProductSpecAttrPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9Qcm9kdWN0U3BlY0F0dHJQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/RecommendedProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9SZWNvbW1lbmRlZFByb2R1Y3RBZGRQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/RelatedProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9SZWxhdGVkUHJvZHVjdEFkZFBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/RequiredProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9SZXF1aXJlZFByb2R1Y3RBZGRQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/SimilarProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9TaW1pbGFyUHJvZHVjdEFkZFBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/TierPriceCreatePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9UaWVyUHJpY2VDcmVhdGVQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Product/TierPriceEditPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9UaWVyUHJpY2VFZGl0UG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ProductAttribute/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdEF0dHJpYnV0ZS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ProductAttribute/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdEF0dHJpYnV0ZS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ProductAttribute/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdEF0dHJpYnV0ZS9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ProductAttribute/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdEF0dHJpYnV0ZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ProductAttribute/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdEF0dHJpYnV0ZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ProductAttribute/Partials/CreateOrUpdate.TabPredefinedValues.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdEF0dHJpYnV0ZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJQcmVkZWZpbmVkVmFsdWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ProductAttribute/Partials/CreateOrUpdate.TabUsedByProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdEF0dHJpYnV0ZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJVc2VkQnlQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ProductAttribute/Partials/CreateOrUpdatePredefinedProductAttributeValue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdEF0dHJpYnV0ZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZVByZWRlZmluZWRQcm9kdWN0QXR0cmlidXRlVmFsdWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ProductAttribute/PredefinedProductAttributeValueCreatePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdEF0dHJpYnV0ZS9QcmVkZWZpbmVkUHJvZHVjdEF0dHJpYnV0ZVZhbHVlQ3JlYXRlUG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ProductAttribute/PredefinedProductAttributeValueEditPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdEF0dHJpYnV0ZS9QcmVkZWZpbmVkUHJvZHVjdEF0dHJpYnV0ZVZhbHVlRWRpdFBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ProductReview/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdFJldmlldy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ProductReview/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdFJldmlldy9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ProductReview/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdFJldmlldy9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ProductTags/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdFRhZ3MvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ProductTags/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdFRhZ3MvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ProductTags/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdFRhZ3MvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ProductTags/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdFRhZ3MvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ProductTags/Partials/CreateOrUpdate.TabProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdFRhZ3MvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/PushNotifications/Messages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHVzaE5vdGlmaWNhdGlvbnMvTWVzc2FnZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/PushNotifications/Receivers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHVzaE5vdGlmaWNhdGlvbnMvUmVjZWl2ZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/PushNotifications/Send.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHVzaE5vdGlmaWNhdGlvbnMvU2VuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/QueuedEmail/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUXVldWVkRW1haWwvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/QueuedEmail/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUXVldWVkRW1haWwvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/QueuedEmail/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUXVldWVkRW1haWwvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Reports/BestsellersBriefReportByAmount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUmVwb3J0cy9CZXN0c2VsbGVyc0JyaWVmUmVwb3J0QnlBbW91bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Reports/BestsellersBriefReportByQuantity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUmVwb3J0cy9CZXN0c2VsbGVyc0JyaWVmUmVwb3J0QnlRdWFudGl0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Reports/BestsellersReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUmVwb3J0cy9CZXN0c2VsbGVyc1JlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Reports/CountryReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUmVwb3J0cy9Db3VudHJ5UmVwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Reports/Customer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUmVwb3J0cy9DdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Reports/LowStockReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUmVwb3J0cy9Mb3dTdG9ja1JlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Reports/NeverSoldReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUmVwb3J0cy9OZXZlclNvbGRSZXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Reports/Partials/Customer.TabBestByNumberOfOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUmVwb3J0cy9QYXJ0aWFscy9DdXN0b21lci5UYWJCZXN0QnlOdW1iZXJPZk9yZGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Reports/Partials/Customer.TabBestByOrderTotal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUmVwb3J0cy9QYXJ0aWFscy9DdXN0b21lci5UYWJCZXN0QnlPcmRlclRvdGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Reports/Partials/Customer.TabRegisteredCustomers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUmVwb3J0cy9QYXJ0aWFscy9DdXN0b21lci5UYWJSZWdpc3RlcmVkQ3VzdG9tZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Reports/Partials/ReportBestCustomersByNumberOfOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUmVwb3J0cy9QYXJ0aWFscy9SZXBvcnRCZXN0Q3VzdG9tZXJzQnlOdW1iZXJPZk9yZGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Reports/Partials/ReportBestCustomersByOrderTotal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUmVwb3J0cy9QYXJ0aWFscy9SZXBvcnRCZXN0Q3VzdG9tZXJzQnlPcmRlclRvdGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/SalesEmployee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2FsZXNFbXBsb3llZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ScheduleTask/EditScheduler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2NoZWR1bGVUYXNrL0VkaXRTY2hlZHVsZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ScheduleTask/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2NoZWR1bGVUYXNrL0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/AdminSearch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9BZG1pblNlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Catalog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9DYXRhbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Content.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9Db250ZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Customer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9DdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/GeneralCommon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9HZW5lcmFsQ29tbW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Media.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9NZWRpYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/MerchandiseReturnActionCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9NZXJjaGFuZGlzZVJldHVybkFjdGlvbkNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/MerchandiseReturnActionEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9NZXJjaGFuZGlzZVJldHVybkFjdGlvbkVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/MerchandiseReturnReasonCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9NZXJjaGFuZGlzZVJldHVyblJlYXNvbkNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/MerchandiseReturnReasonEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9NZXJjaGFuZGlzZVJldHVyblJlYXNvbkVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/Catalog.TabCompareProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9DYXRhbG9nLlRhYkNvbXBhcmVQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/Catalog.TabGeneralSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9DYXRhbG9nLlRhYkdlbmVyYWxTZXR0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/Catalog.TabPerformance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9DYXRhbG9nLlRhYlBlcmZvcm1hbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/Catalog.TabProductReviews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9DYXRhbG9nLlRhYlByb2R1Y3RSZXZpZXdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/Catalog.TabSearchSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9DYXRhbG9nLlRhYlNlYXJjaFNldHRpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/Catalog.TabSharing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9DYXRhbG9nLlRhYlNoYXJpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/Catalog.TabSortOptions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9DYXRhbG9nLlRhYlNvcnRPcHRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/Content.TabBlogSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9Db250ZW50LlRhYkJsb2dTZXR0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/Content.TabKnowledgebaseSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9Db250ZW50LlRhYktub3dsZWRnZWJhc2VTZXR0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/Content.TabNewsSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9Db250ZW50LlRhYk5ld3NTZXR0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/CreateOrUpdate.MerchandiseReturnAction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5NZXJjaGFuZGlzZVJldHVybkFjdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/CreateOrUpdate.MerchandiseReturnReason.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5NZXJjaGFuZGlzZVJldHVyblJlYXNvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/Customer.TabAddressFormFields.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9DdXN0b21lci5UYWJBZGRyZXNzRm9ybUZpZWxkcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/Customer.TabCustomerFormFields.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9DdXN0b21lci5UYWJDdXN0b21lckZvcm1GaWVsZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/Customer.TabCustomerSecurity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9DdXN0b21lci5UYWJDdXN0b21lclNlY3VyaXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/Customer.TabCustomerSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9DdXN0b21lci5UYWJDdXN0b21lclNldHRpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/GeneralCommon.TabMenuSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9HZW5lcmFsQ29tbW9uLlRhYk1lbnVTZXR0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/GeneralCommon.TabPdfSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9HZW5lcmFsQ29tbW9uLlRhYlBkZlNldHRpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/GeneralCommon.TabSecuritySettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9HZW5lcmFsQ29tbW9uLlRhYlNlY3VyaXR5U2V0dGluZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/GeneralCommon.TabSEOSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9HZW5lcmFsQ29tbW9uLlRhYlNFT1NldHRpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/GeneralCommon.TabStoreInformationSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9HZW5lcmFsQ29tbW9uLlRhYlN0b3JlSW5mb3JtYXRpb25TZXR0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/MerchandiseReturnActions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9NZXJjaGFuZGlzZVJldHVybkFjdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/MerchandiseReturnReasons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9NZXJjaGFuZGlzZVJldHVyblJlYXNvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/Sales.TabLoyaltyPoints.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9TYWxlcy5UYWJMb3lhbHR5UG9pbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/Sales.TabMerchandiseReturn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9TYWxlcy5UYWJNZXJjaGFuZGlzZVJldHVybi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/Sales.TabOrderSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9TYWxlcy5UYWJPcmRlclNldHRpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Partials/Sales.TabShoppingCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QYXJ0aWFscy9TYWxlcy5UYWJTaG9wcGluZ0NhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/PushNotifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9QdXNoTm90aWZpY2F0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Sales.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9TYWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/SystemSetting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9TeXN0ZW1TZXR0aW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Setting/Vendor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2V0dGluZy9WZW5kb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Components/AclDisabledWarning/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQWNsRGlzYWJsZWRXYXJuaW5nL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Components/AdminLanguageSelector/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQWRtaW5MYW5ndWFnZVNlbGVjdG9yL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Components/AdminWidget/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQWRtaW5XaWRnZXQvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Components/BestsellersBriefReportByAmount/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQmVzdHNlbGxlcnNCcmllZlJlcG9ydEJ5QW1vdW50L0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Components/BestsellersBriefReportByQuantity/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQmVzdHNlbGxlcnNCcmllZlJlcG9ydEJ5UXVhbnRpdHkvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Components/CustomerReportRegistered/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQ3VzdG9tZXJSZXBvcnRSZWdpc3RlcmVkL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Components/CustomerReportTimeChart/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQ3VzdG9tZXJSZXBvcnRUaW1lQ2hhcnQvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Components/LatestOrder/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0NvbXBvbmVudHMvTGF0ZXN0T3JkZXIvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Components/MultistoreDisabledWarning/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0NvbXBvbmVudHMvTXVsdGlzdG9yZURpc2FibGVkV2FybmluZy9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Components/OrderAverageReport/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0NvbXBvbmVudHMvT3JkZXJBdmVyYWdlUmVwb3J0L0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Components/OrderIncompleteReport/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0NvbXBvbmVudHMvT3JkZXJJbmNvbXBsZXRlUmVwb3J0L0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Components/OrderPeriodReport/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0NvbXBvbmVudHMvT3JkZXJQZXJpb2RSZXBvcnQvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Components/OrderTimeChart/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0NvbXBvbmVudHMvT3JkZXJUaW1lQ2hhcnQvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Components/PopularSearchTermsReport/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0NvbXBvbmVudHMvUG9wdWxhclNlYXJjaFRlcm1zUmVwb3J0L0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Components/StoreScope/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0NvbXBvbmVudHMvU3RvcmVTY29wZS9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/Address.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9BZGRyZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/Brand.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9CcmFuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9DYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/Codemirror.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9Db2RlbWlycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/Collection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9Db2xsZWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/CustomerGroups.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9DdXN0b21lckdyb3Vwcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/Date.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9EYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/DateNullable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9EYXRlTnVsbGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/DateTime.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9EYXRlVGltZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/DateTimeNullable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9EYXRlVGltZU51bGxhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/Decimal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9EZWNpbWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/DecimalN4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9EZWNpbWFsTjQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/DecimalNullable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9EZWNpbWFsTnVsbGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/Double.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9Eb3VibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/DoubleN4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9Eb3VibGVONC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/DoubleNullable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9Eb3VibGVOdWxsYWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/Download.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9Eb3dubG9hZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/Editor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9FZGl0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/Int32.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9JbnQzMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/Int32Nullable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9JbnQzMk51bGxhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/MultiPicture.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9NdWx0aVBpY3R1cmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/MultiSelect.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9NdWx0aVNlbGVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/Picture.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9QaWN0dXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/Review.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9SZXZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/Stores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9TdG9yZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/Time.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9UaW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/EditorTemplates/Vendor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0VkaXRvclRlbXBsYXRlcy9WZW5kb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Partials/AddressAttributes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL1BhcnRpYWxzL0FkZHJlc3NBdHRyaWJ1dGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Partials/DateDropDowns.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL1BhcnRpYWxzL0RhdGVEcm9wRG93bnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Partials/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL1BhcnRpYWxzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Partials/HeadAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL1BhcnRpYWxzL0hlYWRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Partials/Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL1BhcnRpYWxzL01lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Partials/MenuItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL1BhcnRpYWxzL01lbnVJdGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Partials/Notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL1BhcnRpYWxzL05vdGlmaWNhdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Partials/PicturePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL1BhcnRpYWxzL1BpY3R1cmVQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/Partials/UserFields.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL1BhcnRpYWxzL1VzZXJGaWVsZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/_AdminLoginLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19BZG1pbkxvZ2luTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shared/_ConfigurePlugin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19Db25maWd1cmVQbHVnaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipment/AddShipment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcG1lbnQvQWRkU2hpcG1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipment/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcG1lbnQvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipment/Partials/Documents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcG1lbnQvUGFydGlhbHMvRG9jdW1lbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipment/Partials/Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcG1lbnQvUGFydGlhbHMvSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipment/Partials/ShipmentNotes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcG1lbnQvUGFydGlhbHMvU2hpcG1lbnROb3Rlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipment/ShipmentDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcG1lbnQvU2hpcG1lbnREZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipping/CreateDeliveryDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmcvQ3JlYXRlRGVsaXZlcnlEYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipping/CreateMethod.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmcvQ3JlYXRlTWV0aG9kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipping/CreatePickupPoint.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmcvQ3JlYXRlUGlja3VwUG9pbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipping/CreateWarehouse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmcvQ3JlYXRlV2FyZWhvdXNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipping/DeliveryDates.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmcvRGVsaXZlcnlEYXRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipping/EditDeliveryDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmcvRWRpdERlbGl2ZXJ5RGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipping/EditMethod.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmcvRWRpdE1ldGhvZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipping/EditPickupPoint.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmcvRWRpdFBpY2t1cFBvaW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipping/EditWarehouse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmcvRWRpdFdhcmVob3VzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipping/Methods.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmcvTWV0aG9kcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipping/Partials/CreateOrUpdateDeliveryDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmcvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGVEZWxpdmVyeURhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipping/Partials/CreateOrUpdateMethod.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmcvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGVNZXRob2QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipping/Partials/CreateOrUpdatePickupPoint.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmcvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGVQaWNrdXBQb2ludC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipping/Partials/CreateOrUpdateWarehouse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmcvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGVXYXJlaG91c2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipping/Partials/Restrictions.TabCountry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmcvUGFydGlhbHMvUmVzdHJpY3Rpb25zLlRhYkNvdW50cnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipping/Partials/Restrictions.TabGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmcvUGFydGlhbHMvUmVzdHJpY3Rpb25zLlRhYkdyb3VwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipping/PickupPoints.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmcvUGlja3VwUG9pbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipping/Providers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmcvUHJvdmlkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipping/Restrictions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmcvUmVzdHJpY3Rpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipping/Settings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmcvU2V0dGluZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Shipping/Warehouses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmcvV2FyZWhvdXNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ShoppingCart/CurrentCarts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hvcHBpbmdDYXJ0L0N1cnJlbnRDYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ShoppingCart/Partials/CurrentCarts.TabCurrentCarts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hvcHBpbmdDYXJ0L1BhcnRpYWxzL0N1cnJlbnRDYXJ0cy5UYWJDdXJyZW50Q2FydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/ShoppingCart/Partials/CurrentCarts.TabCurrentWishlists.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hvcHBpbmdDYXJ0L1BhcnRpYWxzL0N1cnJlbnRDYXJ0cy5UYWJDdXJyZW50V2lzaGxpc3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/SpecificationAttribute/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/SpecificationAttribute/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/SpecificationAttribute/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZS9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/SpecificationAttribute/OptionCreatePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZS9PcHRpb25DcmVhdGVQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/SpecificationAttribute/OptionEditPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZS9PcHRpb25FZGl0UG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/SpecificationAttribute/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/SpecificationAttribute/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/SpecificationAttribute/Partials/CreateOrUpdate.TabOptions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJPcHRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/SpecificationAttribute/Partials/CreateOrUpdate.TabUsedByProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZS5UYWJVc2VkQnlQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/SpecificationAttribute/Partials/CreateOrUpdateOption.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZS9QYXJ0aWFscy9DcmVhdGVPclVwZGF0ZU9wdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Store/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3RvcmUvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Store/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3RvcmUvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Store/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3RvcmUvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Store/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3RvcmUvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Store/Partials/CreateOrUpdate.TabBankAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3RvcmUvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiQmFua0FjY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Store/Partials/CreateOrUpdate.TabDomains.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3RvcmUvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiRG9tYWlucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Store/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3RvcmUvUGFydGlhbHMvQ3JlYXRlT3JVcGRhdGUuVGFiSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/System/Roslyn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3lzdGVtL1Jvc2x5bi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/System/SystemInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU3lzdGVtL1N5c3RlbUluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Tax/Categories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVGF4L0NhdGVnb3JpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Tax/Providers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVGF4L1Byb3ZpZGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Tax/Settings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVGF4L1NldHRpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Vendor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVmVuZG9yL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Vendor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVmVuZG9yL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Vendor/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVmVuZG9yL0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Vendor/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVmVuZG9yL1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Vendor/Partials/CreateOrUpdate.TabDiscounts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVmVuZG9yL1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLlRhYkRpc2NvdW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Vendor/Partials/CreateOrUpdate.TabDocuments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVmVuZG9yL1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLlRhYkRvY3VtZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Vendor/Partials/CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVmVuZG9yL1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLlRhYkluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Vendor/Partials/CreateOrUpdate.TabSeo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVmVuZG9yL1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLlRhYlNlby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Vendor/Partials/CreateOrUpdate.TabVendorNotes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVmVuZG9yL1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLlRhYlZlbmRvck5vdGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Vendor/Partials/CreateOrUpdate.TabVendorReviews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVmVuZG9yL1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLlRhYlZlbmRvclJldmlld3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/VendorReview/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVmVuZG9yUmV2aWV3L0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/VendorReview/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVmVuZG9yUmV2aWV3L0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/VendorReview/Partials/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVmVuZG9yUmV2aWV3L1BhcnRpYWxzL0NyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/VendorReview/Partials/SearchVendor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVmVuZG9yUmV2aWV3L1BhcnRpYWxzL1NlYXJjaFZlbmRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/Widget/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvV2lkZ2V0L0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DiscountRules.Standard
+build_property.RootNamespace = DiscountRules.Standard
+build_property.ProjectDir = /Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/DiscountRules.Standard/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/DiscountRules.Standard
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/DiscountRules.Standard/Areas/Admin/Views/CustomerGroups/Configure.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJHcm91cHMvQ29uZmlndXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/DiscountRules.Standard/Areas/Admin/Views/HadSpentAmount/Configure.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSGFkU3BlbnRBbW91bnQvQ29uZmlndXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/DiscountRules.Standard/Areas/Admin/Views/HasAllProducts/Configure.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSGFzQWxsUHJvZHVjdHMvQ29uZmlndXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/DiscountRules.Standard/Areas/Admin/Views/HasAllProducts/ProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSGFzQWxsUHJvZHVjdHMvUHJvZHVjdEFkZFBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/DiscountRules.Standard/Areas/Admin/Views/HasOneProduct/Configure.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSGFzT25lUHJvZHVjdC9Db25maWd1cmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/DiscountRules.Standard/Areas/Admin/Views/HasOneProduct/ProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSGFzT25lUHJvZHVjdC9Qcm9kdWN0QWRkUG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/DiscountRules.Standard/Areas/Admin/Views/ShoppingCartAmount/Configure.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hvcHBpbmdDYXJ0QW1vdW50L0NvbmZpZ3VyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/DiscountRules.Standard/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

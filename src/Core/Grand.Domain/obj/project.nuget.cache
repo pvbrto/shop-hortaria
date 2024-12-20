@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mRO+/TZ/bKD6JPn7Kwc/Lotw7RmWC4J8DxWjy5d7Gx1GrmmezU9bAuckLtnrnj2+rSspXNl9yutuBlxHSE53vw==",
+  "success": true,
+  "projectFilePath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Domain/Grand.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/pvbrto/.nuget/packages/dotliquid/2.2.692/dotliquid.2.2.692.nupkg.sha512",
+    "/Users/pvbrto/.nuget/packages/mongodb.bson/2.25.0/mongodb.bson.2.25.0.nupkg.sha512",
+    "/Users/pvbrto/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/pvbrto/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

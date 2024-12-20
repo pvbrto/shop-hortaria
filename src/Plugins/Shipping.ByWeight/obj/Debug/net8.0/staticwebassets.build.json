@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nuGherquqNUS3dmMqfAhYvDNlR+shX99d6M5rNDmEUc=",
+  "Source": "Shipping.ByWeight",
+  "BasePath": "_content/Shipping.ByWeight",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

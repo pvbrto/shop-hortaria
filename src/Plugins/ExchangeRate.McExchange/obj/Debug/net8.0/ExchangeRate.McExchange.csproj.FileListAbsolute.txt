@@ -1,0 +1,13 @@
+/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Web/Grand.Web/Plugins/ExchangeRate.McExchange/logo.jpg
+/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Web/Grand.Web/Plugins/ExchangeRate.McExchange/ExchangeRate.McExchange.deps.json
+/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Web/Grand.Web/Plugins/ExchangeRate.McExchange/ExchangeRate.McExchange.dll
+/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Web/Grand.Web/Plugins/ExchangeRate.McExchange/ExchangeRate.McExchange.pdb
+/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/ExchangeRate.McExchange/obj/Debug/net8.0/ExchangeRate.McExchange.csproj.AssemblyReference.cache
+/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/ExchangeRate.McExchange/obj/Debug/net8.0/ExchangeRate.McExchange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/ExchangeRate.McExchange/obj/Debug/net8.0/ExchangeRate.McExchange.AssemblyInfoInputs.cache
+/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/ExchangeRate.McExchange/obj/Debug/net8.0/ExchangeRate.McExchange.AssemblyInfo.cs
+/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/ExchangeRate.McExchange/obj/Debug/net8.0/ExchangeRate.McExchange.csproj.CoreCompileInputs.cache
+/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/ExchangeRate.McExchange/obj/Debug/net8.0/ExchangeRate.McExchange.dll
+/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/ExchangeRate.McExchange/obj/Debug/net8.0/refint/ExchangeRate.McExchange.dll
+/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/ExchangeRate.McExchange/obj/Debug/net8.0/ExchangeRate.McExchange.pdb
+/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/ExchangeRate.McExchange/obj/Debug/net8.0/ref/ExchangeRate.McExchange.dll

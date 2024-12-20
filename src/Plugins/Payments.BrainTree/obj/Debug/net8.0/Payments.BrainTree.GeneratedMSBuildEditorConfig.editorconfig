@@ -1,0 +1,51 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Payments.BrainTree
+build_property.RootNamespace = Payments.BrainTree
+build_property.ProjectDir = /Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Payments.BrainTree/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Payments.BrainTree
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Payments.BrainTree/Areas/Admin/Views/PaymentBrainTree/Configure.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUGF5bWVudEJyYWluVHJlZS9Db25maWd1cmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Payments.BrainTree/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Payments.BrainTree/Views/PaymentBrainTree/PaymentInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudEJyYWluVHJlZS9QYXltZW50SW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Payments.BrainTree/Views/PaymentBrainTree/PaymentInfo_3DS.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudEJyYWluVHJlZS9QYXltZW50SW5mb18zRFMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Payments.BrainTree/Views/Shared/Components/PaymentBrainTreeScripts/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvUGF5bWVudEJyYWluVHJlZVNjcmlwdHMvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Payments.BrainTree/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lGNkQCFSE9jdl328CL4uVDDCoIWJiJUJz0QjVNWPP1M=",
+  "Source": "Shipping.ShippingPoint",
+  "BasePath": "_content/Shipping.ShippingPoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

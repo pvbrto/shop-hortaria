@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yKy7rIYIc0xAB/qNtJL7ipVigy0Z08Ahtx19m9eN450=",
+  "Source": "Authentication.Google",
+  "BasePath": "_content/Authentication.Google",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

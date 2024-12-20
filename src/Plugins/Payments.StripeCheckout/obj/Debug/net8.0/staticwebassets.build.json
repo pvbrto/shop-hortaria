@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9kVGgcg7qE/rX3blNSJ+8MqrlRXaGnFj+jh32LzF+Do=",
+  "Source": "Payments.StripeCheckout",
+  "BasePath": "_content/Payments.StripeCheckout",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,515 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Business/Grand.Business.Messages/Grand.Business.Messages.csproj": {}
+  },
+  "projects": {
+    "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Business/Grand.Business.Core/Grand.Business.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Business/Grand.Business.Core/Grand.Business.Core.csproj",
+        "projectName": "Grand.Business.Core",
+        "projectPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Business/Grand.Business.Core/Grand.Business.Core.csproj",
+        "packagesPath": "/Users/pvbrto/.nuget/packages/",
+        "outputPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Business/Grand.Business.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/pvbrto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Domain/Grand.Domain.csproj": {
+                "projectPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Domain/Grand.Domain.csproj"
+              },
+              "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Infrastructure/Grand.Infrastructure.csproj": {
+                "projectPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Infrastructure/Grand.Infrastructure.csproj"
+              },
+              "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.SharedKernel/Grand.SharedKernel.csproj": {
+                "projectPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.SharedKernel/Grand.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Business/Grand.Business.Messages/Grand.Business.Messages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Business/Grand.Business.Messages/Grand.Business.Messages.csproj",
+        "projectName": "Grand.Business.Messages",
+        "projectPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Business/Grand.Business.Messages/Grand.Business.Messages.csproj",
+        "packagesPath": "/Users/pvbrto/.nuget/packages/",
+        "outputPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Business/Grand.Business.Messages/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/pvbrto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Business/Grand.Business.Core/Grand.Business.Core.csproj": {
+                "projectPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Business/Grand.Business.Core/Grand.Business.Core.csproj"
+              },
+              "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Domain/Grand.Domain.csproj": {
+                "projectPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Domain/Grand.Domain.csproj"
+              },
+              "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Infrastructure/Grand.Infrastructure.csproj": {
+                "projectPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Infrastructure/Grand.Infrastructure.csproj"
+              },
+              "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.SharedKernel/Grand.SharedKernel.csproj": {
+                "projectPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.SharedKernel/Grand.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Data/Grand.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Data/Grand.Data.csproj",
+        "projectName": "Grand.Data",
+        "projectPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Data/Grand.Data.csproj",
+        "packagesPath": "/Users/pvbrto/.nuget/packages/",
+        "outputPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/pvbrto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Domain/Grand.Domain.csproj": {
+                "projectPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Domain/Grand.Domain.csproj"
+              },
+              "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.SharedKernel/Grand.SharedKernel.csproj": {
+                "projectPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.SharedKernel/Grand.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "DotLiquid": {
+              "target": "Package",
+              "version": "[2.2.692, )"
+            },
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            },
+            "MongoDB.Driver.GridFS": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Domain/Grand.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Domain/Grand.Domain.csproj",
+        "projectName": "Grand.Domain",
+        "projectPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Domain/Grand.Domain.csproj",
+        "packagesPath": "/Users/pvbrto/.nuget/packages/",
+        "outputPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/pvbrto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.SharedKernel/Grand.SharedKernel.csproj": {
+                "projectPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.SharedKernel/Grand.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "DotLiquid": {
+              "target": "Package",
+              "version": "[2.2.692, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Infrastructure/Grand.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Infrastructure/Grand.Infrastructure.csproj",
+        "projectName": "Grand.Infrastructure",
+        "projectPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Infrastructure/Grand.Infrastructure.csproj",
+        "packagesPath": "/Users/pvbrto/.nuget/packages/",
+        "outputPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/pvbrto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Data/Grand.Data.csproj": {
+                "projectPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Data/Grand.Data.csproj"
+              },
+              "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Domain/Grand.Domain.csproj": {
+                "projectPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.Domain/Grand.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "GoogleAuthenticator": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.Azure.AppConfiguration.AspNetCore": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[4.9.2, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp.Scripting": {
+              "target": "Package",
+              "version": "[4.9.2, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.7.33, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.SharedKernel/Grand.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.SharedKernel/Grand.SharedKernel.csproj",
+        "projectName": "Grand.SharedKernel",
+        "projectPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.SharedKernel/Grand.SharedKernel.csproj",
+        "packagesPath": "/Users/pvbrto/.nuget/packages/",
+        "outputPath": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Core/Grand.SharedKernel/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/pvbrto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qMK1fn2WQ+wYHLbcAyBYHJNP7dluhTyi+ff3UkrEihM=",
+  "Source": "Tax.FixedRate",
+  "BasePath": "_content/Tax.FixedRate",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

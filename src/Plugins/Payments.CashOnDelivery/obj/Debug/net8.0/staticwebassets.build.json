@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NWttVucwJ8vWOFEMD9dXkBfskLC/6GsPjqGYIchU0YE=",
+  "Source": "Payments.CashOnDelivery",
+  "BasePath": "_content/Payments.CashOnDelivery",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

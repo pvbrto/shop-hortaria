@@ -1,0 +1,1017 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ad.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ad.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ae.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ae.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/af.png",
+      "PackagePath": "staticwebassets/assets/images/flags/af.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ag.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ag.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ai.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ai.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/al.png",
+      "PackagePath": "staticwebassets/assets/images/flags/al.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/am.png",
+      "PackagePath": "staticwebassets/assets/images/flags/am.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/an.png",
+      "PackagePath": "staticwebassets/assets/images/flags/an.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ao.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ao.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ar.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ar.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/as.png",
+      "PackagePath": "staticwebassets/assets/images/flags/as.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/at.png",
+      "PackagePath": "staticwebassets/assets/images/flags/at.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/au.png",
+      "PackagePath": "staticwebassets/assets/images/flags/au.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/aw.png",
+      "PackagePath": "staticwebassets/assets/images/flags/aw.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ax.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ax.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/az.png",
+      "PackagePath": "staticwebassets/assets/images/flags/az.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ba.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ba.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/bb.png",
+      "PackagePath": "staticwebassets/assets/images/flags/bb.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/bd.png",
+      "PackagePath": "staticwebassets/assets/images/flags/bd.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/be.png",
+      "PackagePath": "staticwebassets/assets/images/flags/be.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/bf.png",
+      "PackagePath": "staticwebassets/assets/images/flags/bf.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/bg.png",
+      "PackagePath": "staticwebassets/assets/images/flags/bg.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/bh.png",
+      "PackagePath": "staticwebassets/assets/images/flags/bh.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/bi.png",
+      "PackagePath": "staticwebassets/assets/images/flags/bi.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/bj.png",
+      "PackagePath": "staticwebassets/assets/images/flags/bj.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/bm.png",
+      "PackagePath": "staticwebassets/assets/images/flags/bm.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/bn.png",
+      "PackagePath": "staticwebassets/assets/images/flags/bn.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/bo.png",
+      "PackagePath": "staticwebassets/assets/images/flags/bo.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/br.png",
+      "PackagePath": "staticwebassets/assets/images/flags/br.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/bs.png",
+      "PackagePath": "staticwebassets/assets/images/flags/bs.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/bt.png",
+      "PackagePath": "staticwebassets/assets/images/flags/bt.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/bv.png",
+      "PackagePath": "staticwebassets/assets/images/flags/bv.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/bw.png",
+      "PackagePath": "staticwebassets/assets/images/flags/bw.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/by.png",
+      "PackagePath": "staticwebassets/assets/images/flags/by.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/bz.png",
+      "PackagePath": "staticwebassets/assets/images/flags/bz.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ca.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ca.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/catalonia.png",
+      "PackagePath": "staticwebassets/assets/images/flags/catalonia.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/cc.png",
+      "PackagePath": "staticwebassets/assets/images/flags/cc.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/cd.png",
+      "PackagePath": "staticwebassets/assets/images/flags/cd.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/cf.png",
+      "PackagePath": "staticwebassets/assets/images/flags/cf.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/cg.png",
+      "PackagePath": "staticwebassets/assets/images/flags/cg.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ch.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ch.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ci.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ci.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ck.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ck.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/cl.png",
+      "PackagePath": "staticwebassets/assets/images/flags/cl.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/cm.png",
+      "PackagePath": "staticwebassets/assets/images/flags/cm.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/cn.png",
+      "PackagePath": "staticwebassets/assets/images/flags/cn.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/co.png",
+      "PackagePath": "staticwebassets/assets/images/flags/co.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/cr.png",
+      "PackagePath": "staticwebassets/assets/images/flags/cr.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/cs.png",
+      "PackagePath": "staticwebassets/assets/images/flags/cs.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/cu.png",
+      "PackagePath": "staticwebassets/assets/images/flags/cu.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/cv.png",
+      "PackagePath": "staticwebassets/assets/images/flags/cv.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/cx.png",
+      "PackagePath": "staticwebassets/assets/images/flags/cx.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/cy.png",
+      "PackagePath": "staticwebassets/assets/images/flags/cy.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/cz.png",
+      "PackagePath": "staticwebassets/assets/images/flags/cz.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/de.png",
+      "PackagePath": "staticwebassets/assets/images/flags/de.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/dj.png",
+      "PackagePath": "staticwebassets/assets/images/flags/dj.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/dk.png",
+      "PackagePath": "staticwebassets/assets/images/flags/dk.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/dm.png",
+      "PackagePath": "staticwebassets/assets/images/flags/dm.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/do.png",
+      "PackagePath": "staticwebassets/assets/images/flags/do.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/dz.png",
+      "PackagePath": "staticwebassets/assets/images/flags/dz.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ec.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ec.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ee.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ee.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/eg.png",
+      "PackagePath": "staticwebassets/assets/images/flags/eg.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/eh.png",
+      "PackagePath": "staticwebassets/assets/images/flags/eh.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/england.png",
+      "PackagePath": "staticwebassets/assets/images/flags/england.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/er.png",
+      "PackagePath": "staticwebassets/assets/images/flags/er.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/es.png",
+      "PackagePath": "staticwebassets/assets/images/flags/es.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/et.png",
+      "PackagePath": "staticwebassets/assets/images/flags/et.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/europeanunion.png",
+      "PackagePath": "staticwebassets/assets/images/flags/europeanunion.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/fam.png",
+      "PackagePath": "staticwebassets/assets/images/flags/fam.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/fi.png",
+      "PackagePath": "staticwebassets/assets/images/flags/fi.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/fj.png",
+      "PackagePath": "staticwebassets/assets/images/flags/fj.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/fk.png",
+      "PackagePath": "staticwebassets/assets/images/flags/fk.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/fm.png",
+      "PackagePath": "staticwebassets/assets/images/flags/fm.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/fo.png",
+      "PackagePath": "staticwebassets/assets/images/flags/fo.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/fr.png",
+      "PackagePath": "staticwebassets/assets/images/flags/fr.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ga.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ga.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/gb.png",
+      "PackagePath": "staticwebassets/assets/images/flags/gb.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/gd.png",
+      "PackagePath": "staticwebassets/assets/images/flags/gd.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ge.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ge.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/gf.png",
+      "PackagePath": "staticwebassets/assets/images/flags/gf.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/gh.png",
+      "PackagePath": "staticwebassets/assets/images/flags/gh.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/gi.png",
+      "PackagePath": "staticwebassets/assets/images/flags/gi.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/gl.png",
+      "PackagePath": "staticwebassets/assets/images/flags/gl.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/gm.png",
+      "PackagePath": "staticwebassets/assets/images/flags/gm.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/gn.png",
+      "PackagePath": "staticwebassets/assets/images/flags/gn.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/gp.png",
+      "PackagePath": "staticwebassets/assets/images/flags/gp.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/gq.png",
+      "PackagePath": "staticwebassets/assets/images/flags/gq.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/gr.png",
+      "PackagePath": "staticwebassets/assets/images/flags/gr.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/gs.png",
+      "PackagePath": "staticwebassets/assets/images/flags/gs.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/gt.png",
+      "PackagePath": "staticwebassets/assets/images/flags/gt.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/gu.png",
+      "PackagePath": "staticwebassets/assets/images/flags/gu.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/gw.png",
+      "PackagePath": "staticwebassets/assets/images/flags/gw.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/gy.png",
+      "PackagePath": "staticwebassets/assets/images/flags/gy.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/hk.png",
+      "PackagePath": "staticwebassets/assets/images/flags/hk.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/hm.png",
+      "PackagePath": "staticwebassets/assets/images/flags/hm.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/hn.png",
+      "PackagePath": "staticwebassets/assets/images/flags/hn.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/hr.png",
+      "PackagePath": "staticwebassets/assets/images/flags/hr.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ht.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ht.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/hu.png",
+      "PackagePath": "staticwebassets/assets/images/flags/hu.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/id.png",
+      "PackagePath": "staticwebassets/assets/images/flags/id.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ie.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ie.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/il.png",
+      "PackagePath": "staticwebassets/assets/images/flags/il.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/in.png",
+      "PackagePath": "staticwebassets/assets/images/flags/in.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/io.png",
+      "PackagePath": "staticwebassets/assets/images/flags/io.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/iq.png",
+      "PackagePath": "staticwebassets/assets/images/flags/iq.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ir.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ir.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/is.png",
+      "PackagePath": "staticwebassets/assets/images/flags/is.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/it.png",
+      "PackagePath": "staticwebassets/assets/images/flags/it.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/jm.png",
+      "PackagePath": "staticwebassets/assets/images/flags/jm.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/jo.png",
+      "PackagePath": "staticwebassets/assets/images/flags/jo.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/jp.png",
+      "PackagePath": "staticwebassets/assets/images/flags/jp.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ke.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ke.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/kg.png",
+      "PackagePath": "staticwebassets/assets/images/flags/kg.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/kh.png",
+      "PackagePath": "staticwebassets/assets/images/flags/kh.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ki.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ki.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/km.png",
+      "PackagePath": "staticwebassets/assets/images/flags/km.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/kn.png",
+      "PackagePath": "staticwebassets/assets/images/flags/kn.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/kp.png",
+      "PackagePath": "staticwebassets/assets/images/flags/kp.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/kr.png",
+      "PackagePath": "staticwebassets/assets/images/flags/kr.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/kw.png",
+      "PackagePath": "staticwebassets/assets/images/flags/kw.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ky.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ky.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/kz.png",
+      "PackagePath": "staticwebassets/assets/images/flags/kz.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/la.png",
+      "PackagePath": "staticwebassets/assets/images/flags/la.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/lb.png",
+      "PackagePath": "staticwebassets/assets/images/flags/lb.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/lc.png",
+      "PackagePath": "staticwebassets/assets/images/flags/lc.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/li.png",
+      "PackagePath": "staticwebassets/assets/images/flags/li.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/lk.png",
+      "PackagePath": "staticwebassets/assets/images/flags/lk.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/lr.png",
+      "PackagePath": "staticwebassets/assets/images/flags/lr.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ls.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ls.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/lt.png",
+      "PackagePath": "staticwebassets/assets/images/flags/lt.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/lu.png",
+      "PackagePath": "staticwebassets/assets/images/flags/lu.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/lv.png",
+      "PackagePath": "staticwebassets/assets/images/flags/lv.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ly.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ly.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ma.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ma.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/mc.png",
+      "PackagePath": "staticwebassets/assets/images/flags/mc.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/md.png",
+      "PackagePath": "staticwebassets/assets/images/flags/md.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/me.png",
+      "PackagePath": "staticwebassets/assets/images/flags/me.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/mg.png",
+      "PackagePath": "staticwebassets/assets/images/flags/mg.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/mh.png",
+      "PackagePath": "staticwebassets/assets/images/flags/mh.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/mk.png",
+      "PackagePath": "staticwebassets/assets/images/flags/mk.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ml.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ml.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/mm.png",
+      "PackagePath": "staticwebassets/assets/images/flags/mm.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/mn.png",
+      "PackagePath": "staticwebassets/assets/images/flags/mn.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/mo.png",
+      "PackagePath": "staticwebassets/assets/images/flags/mo.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/mp.png",
+      "PackagePath": "staticwebassets/assets/images/flags/mp.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/mq.png",
+      "PackagePath": "staticwebassets/assets/images/flags/mq.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/mr.png",
+      "PackagePath": "staticwebassets/assets/images/flags/mr.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ms.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ms.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/mt.png",
+      "PackagePath": "staticwebassets/assets/images/flags/mt.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/mu.png",
+      "PackagePath": "staticwebassets/assets/images/flags/mu.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/mv.png",
+      "PackagePath": "staticwebassets/assets/images/flags/mv.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/mw.png",
+      "PackagePath": "staticwebassets/assets/images/flags/mw.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/mx.png",
+      "PackagePath": "staticwebassets/assets/images/flags/mx.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/my.png",
+      "PackagePath": "staticwebassets/assets/images/flags/my.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/mz.png",
+      "PackagePath": "staticwebassets/assets/images/flags/mz.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/na.png",
+      "PackagePath": "staticwebassets/assets/images/flags/na.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/nc.png",
+      "PackagePath": "staticwebassets/assets/images/flags/nc.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ne.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ne.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/nf.png",
+      "PackagePath": "staticwebassets/assets/images/flags/nf.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ng.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ng.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ni.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ni.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/nl.png",
+      "PackagePath": "staticwebassets/assets/images/flags/nl.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/no.png",
+      "PackagePath": "staticwebassets/assets/images/flags/no.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/np.png",
+      "PackagePath": "staticwebassets/assets/images/flags/np.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/nr.png",
+      "PackagePath": "staticwebassets/assets/images/flags/nr.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/nu.png",
+      "PackagePath": "staticwebassets/assets/images/flags/nu.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/nz.png",
+      "PackagePath": "staticwebassets/assets/images/flags/nz.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/om.png",
+      "PackagePath": "staticwebassets/assets/images/flags/om.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/pa.png",
+      "PackagePath": "staticwebassets/assets/images/flags/pa.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/pe.png",
+      "PackagePath": "staticwebassets/assets/images/flags/pe.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/pf.png",
+      "PackagePath": "staticwebassets/assets/images/flags/pf.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/pg.png",
+      "PackagePath": "staticwebassets/assets/images/flags/pg.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ph.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ph.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/pk.png",
+      "PackagePath": "staticwebassets/assets/images/flags/pk.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/pl.png",
+      "PackagePath": "staticwebassets/assets/images/flags/pl.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/pm.png",
+      "PackagePath": "staticwebassets/assets/images/flags/pm.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/pn.png",
+      "PackagePath": "staticwebassets/assets/images/flags/pn.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/pr.png",
+      "PackagePath": "staticwebassets/assets/images/flags/pr.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ps.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ps.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/pt.png",
+      "PackagePath": "staticwebassets/assets/images/flags/pt.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/pw.png",
+      "PackagePath": "staticwebassets/assets/images/flags/pw.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/py.png",
+      "PackagePath": "staticwebassets/assets/images/flags/py.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/qa.png",
+      "PackagePath": "staticwebassets/assets/images/flags/qa.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/re.png",
+      "PackagePath": "staticwebassets/assets/images/flags/re.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ro.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ro.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/rs.png",
+      "PackagePath": "staticwebassets/assets/images/flags/rs.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ru.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ru.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/rw.png",
+      "PackagePath": "staticwebassets/assets/images/flags/rw.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/sa.png",
+      "PackagePath": "staticwebassets/assets/images/flags/sa.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/sb.png",
+      "PackagePath": "staticwebassets/assets/images/flags/sb.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/sc.png",
+      "PackagePath": "staticwebassets/assets/images/flags/sc.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/scotland.png",
+      "PackagePath": "staticwebassets/assets/images/flags/scotland.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/sd.png",
+      "PackagePath": "staticwebassets/assets/images/flags/sd.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/se.png",
+      "PackagePath": "staticwebassets/assets/images/flags/se.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/sg.png",
+      "PackagePath": "staticwebassets/assets/images/flags/sg.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/sh.png",
+      "PackagePath": "staticwebassets/assets/images/flags/sh.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/si.png",
+      "PackagePath": "staticwebassets/assets/images/flags/si.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/sj.png",
+      "PackagePath": "staticwebassets/assets/images/flags/sj.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/sk.png",
+      "PackagePath": "staticwebassets/assets/images/flags/sk.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/sl.png",
+      "PackagePath": "staticwebassets/assets/images/flags/sl.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/sm.png",
+      "PackagePath": "staticwebassets/assets/images/flags/sm.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/sn.png",
+      "PackagePath": "staticwebassets/assets/images/flags/sn.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/so.png",
+      "PackagePath": "staticwebassets/assets/images/flags/so.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/sr.png",
+      "PackagePath": "staticwebassets/assets/images/flags/sr.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/st.png",
+      "PackagePath": "staticwebassets/assets/images/flags/st.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/sv.png",
+      "PackagePath": "staticwebassets/assets/images/flags/sv.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/sy.png",
+      "PackagePath": "staticwebassets/assets/images/flags/sy.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/sz.png",
+      "PackagePath": "staticwebassets/assets/images/flags/sz.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/tc.png",
+      "PackagePath": "staticwebassets/assets/images/flags/tc.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/td.png",
+      "PackagePath": "staticwebassets/assets/images/flags/td.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/tf.png",
+      "PackagePath": "staticwebassets/assets/images/flags/tf.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/tg.png",
+      "PackagePath": "staticwebassets/assets/images/flags/tg.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/th.png",
+      "PackagePath": "staticwebassets/assets/images/flags/th.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/tj.png",
+      "PackagePath": "staticwebassets/assets/images/flags/tj.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/tk.png",
+      "PackagePath": "staticwebassets/assets/images/flags/tk.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/tl.png",
+      "PackagePath": "staticwebassets/assets/images/flags/tl.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/tm.png",
+      "PackagePath": "staticwebassets/assets/images/flags/tm.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/tn.png",
+      "PackagePath": "staticwebassets/assets/images/flags/tn.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/to.png",
+      "PackagePath": "staticwebassets/assets/images/flags/to.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/tr.png",
+      "PackagePath": "staticwebassets/assets/images/flags/tr.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/tt.png",
+      "PackagePath": "staticwebassets/assets/images/flags/tt.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/tv.png",
+      "PackagePath": "staticwebassets/assets/images/flags/tv.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/tw.png",
+      "PackagePath": "staticwebassets/assets/images/flags/tw.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/tz.png",
+      "PackagePath": "staticwebassets/assets/images/flags/tz.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ua.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ua.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ug.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ug.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/um.png",
+      "PackagePath": "staticwebassets/assets/images/flags/um.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/us.png",
+      "PackagePath": "staticwebassets/assets/images/flags/us.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/uy.png",
+      "PackagePath": "staticwebassets/assets/images/flags/uy.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/uz.png",
+      "PackagePath": "staticwebassets/assets/images/flags/uz.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/va.png",
+      "PackagePath": "staticwebassets/assets/images/flags/va.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/vc.png",
+      "PackagePath": "staticwebassets/assets/images/flags/vc.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ve.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ve.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/vg.png",
+      "PackagePath": "staticwebassets/assets/images/flags/vg.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/vi.png",
+      "PackagePath": "staticwebassets/assets/images/flags/vi.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/vn.png",
+      "PackagePath": "staticwebassets/assets/images/flags/vn.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/vu.png",
+      "PackagePath": "staticwebassets/assets/images/flags/vu.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/wales.png",
+      "PackagePath": "staticwebassets/assets/images/flags/wales.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/wf.png",
+      "PackagePath": "staticwebassets/assets/images/flags/wf.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ws.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ws.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/ye.png",
+      "PackagePath": "staticwebassets/assets/images/flags/ye.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/yt.png",
+      "PackagePath": "staticwebassets/assets/images/flags/yt.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/za.png",
+      "PackagePath": "staticwebassets/assets/images/flags/za.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/zm.png",
+      "PackagePath": "staticwebassets/assets/images/flags/zm.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/flags/zw.png",
+      "PackagePath": "staticwebassets/assets/images/flags/zw.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/assets/images/no-image.png",
+      "PackagePath": "staticwebassets/assets/images/no-image.png"
+    },
+    {
+      "Id": "/Users/pvbrto/Desenvolvimento/shop-hortaria/src/Web/Grand.Web.Admin/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Grand.Web.Admin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Grand.Web.Admin.props",
+      "PackagePath": "build\\Grand.Web.Admin.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Grand.Web.Admin.props",
+      "PackagePath": "buildMultiTargeting\\Grand.Web.Admin.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Grand.Web.Admin.props",
+      "PackagePath": "buildTransitive\\Grand.Web.Admin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

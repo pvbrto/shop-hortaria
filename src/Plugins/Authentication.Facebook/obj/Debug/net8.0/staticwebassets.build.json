@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KBE5UeLRwtuobnHfpYtfuf5ep1OU+/S6TChLnTJpT+A=",
+  "Source": "Authentication.Facebook",
+  "BasePath": "_content/Authentication.Facebook",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

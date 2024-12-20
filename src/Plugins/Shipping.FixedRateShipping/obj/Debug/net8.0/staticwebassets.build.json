@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WOZqIx0Xfp1wXPwRnzxXWrMV87s0+DvWVAZudubOC+Y=",
+  "Source": "Shipping.FixedRateShipping",
+  "BasePath": "_content/Shipping.FixedRateShipping",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

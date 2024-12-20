@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KyLBB1ofhb4aCyGcB2YwjwnYiN9SzERdZ1GF1sZnRQI=",
+  "Source": "Tax.CountryStateZip",
+  "BasePath": "_content/Tax.CountryStateZip",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,63 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Widgets.Slider
+build_property.RootNamespace = Widgets.Slider
+build_property.ProjectDir = /Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Widgets.Slider/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Widgets.Slider
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Widgets.Slider/Areas/Admin/Views/WidgetsSlider/Configure.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvV2lkZ2V0c1NsaWRlci9Db25maWd1cmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Widgets.Slider/Areas/Admin/Views/WidgetsSlider/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvV2lkZ2V0c1NsaWRlci9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Widgets.Slider/Areas/Admin/Views/WidgetsSlider/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvV2lkZ2V0c1NsaWRlci9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Widgets.Slider/Areas/Admin/Views/WidgetsSlider/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvV2lkZ2V0c1NsaWRlci9fQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Widgets.Slider/Areas/Admin/Views/WidgetsSlider/_CreateOrUpdate.TabInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvV2lkZ2V0c1NsaWRlci9fQ3JlYXRlT3JVcGRhdGUuVGFiSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Widgets.Slider/Areas/Admin/Views/WidgetsSlider/_Settings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvV2lkZ2V0c1NsaWRlci9fU2V0dGluZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Widgets.Slider/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Widgets.Slider/Views/Shared/Components/WidgetSlider/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvV2lkZ2V0U2xpZGVyL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Widgets.Slider/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

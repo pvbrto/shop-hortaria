@@ -1,0 +1,47 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Shipping.ByWeight
+build_property.RootNamespace = Shipping.ByWeight
+build_property.ProjectDir = /Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Shipping.ByWeight/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Shipping.ByWeight
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Shipping.ByWeight/Areas/Admin/Views/ShippingByWeight/AddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmdCeVdlaWdodC9BZGRQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Shipping.ByWeight/Areas/Admin/Views/ShippingByWeight/Configure.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmdCeVdlaWdodC9Db25maWd1cmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Shipping.ByWeight/Areas/Admin/Views/ShippingByWeight/EditPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmdCeVdlaWdodC9FZGl0UG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Shipping.ByWeight/Areas/Admin/Views/ShippingByWeight/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hpcHBpbmdCeVdlaWdodC9fQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Shipping.ByWeight/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

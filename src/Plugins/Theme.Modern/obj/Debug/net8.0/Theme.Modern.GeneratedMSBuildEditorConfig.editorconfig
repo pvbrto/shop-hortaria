@@ -1,0 +1,467 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Theme.Modern
+build_property.RootNamespace = Theme.Modern
+build_property.ProjectDir = /Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Account/AddressAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0FjY291bnQvQWRkcmVzc0FkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Account/AddressEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0FjY291bnQvQWRkcmVzc0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Account/Addresses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0FjY291bnQvQWRkcmVzc2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Account/Auctions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0FjY291bnQvQXVjdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Account/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0FjY291bnQvQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Account/Courses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0FjY291bnQvQ291cnNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Account/DeleteAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0FjY291bnQvRGVsZXRlQWNjb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Account/Documents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0FjY291bnQvRG9jdW1lbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Account/DownloadableProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0FjY291bnQvRG93bmxvYWRhYmxlUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Account/Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0FjY291bnQvSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0FjY291bnQvTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Account/Notes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0FjY291bnQvTm90ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Account/PasswordRecovery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0FjY291bnQvUGFzc3dvcmRSZWNvdmVyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0FjY291bnQvUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Account/Reviews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0FjY291bnQvUmV2aWV3cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Account/SubAccountAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0FjY291bnQvU3ViQWNjb3VudEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Account/SubAccountEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0FjY291bnQvU3ViQWNjb3VudEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Account/SubAccounts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0FjY291bnQvU3ViQWNjb3VudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Blog/BlogPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0Jsb2cvQmxvZ1Bvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Blog/Components/BlogCategories/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0Jsb2cvQ29tcG9uZW50cy9CbG9nQ2F0ZWdvcmllcy9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Blog/Components/BlogMonths/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0Jsb2cvQ29tcG9uZW50cy9CbG9nTW9udGhzL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Blog/Components/BlogTags/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0Jsb2cvQ29tcG9uZW50cy9CbG9nVGFncy9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Blog/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0Jsb2cvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Catalog/BrandLayout.GridOrLines.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0NhdGFsb2cvQnJhbmRMYXlvdXQuR3JpZE9yTGluZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Catalog/CategoryLayout.GridOrLines.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0NhdGFsb2cvQ2F0ZWdvcnlMYXlvdXQuR3JpZE9yTGluZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Catalog/CollectionLayout.GridOrLines.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0NhdGFsb2cvQ29sbGVjdGlvbkxheW91dC5HcmlkT3JMaW5lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Catalog/Partials/Filtering.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0NhdGFsb2cvUGFydGlhbHMvRmlsdGVyaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Catalog/Partials/ModelScript.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0NhdGFsb2cvUGFydGlhbHMvTW9kZWxTY3JpcHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Catalog/Partials/Pagination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0NhdGFsb2cvUGFydGlhbHMvUGFnaW5hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Catalog/Partials/ScrollPagination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0NhdGFsb2cvUGFydGlhbHMvU2Nyb2xsUGFnaW5hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Catalog/Partials/Selectors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0NhdGFsb2cvUGFydGlhbHMvU2VsZWN0b3JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Catalog/ProductsByTag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0NhdGFsb2cvUHJvZHVjdHNCeVRhZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Catalog/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0NhdGFsb2cvU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Catalog/Vendor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0NhdGFsb2cvVmVuZG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Checkout/Completed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0NoZWNrb3V0L0NvbXBsZXRlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Checkout/Partials/Summary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0NoZWNrb3V0L1BhcnRpYWxzL1N1bW1hcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Common/PageNotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0NvbW1vbi9QYWdlTm90Rm91bmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL0hvbWUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/MerchandiseReturn/CustomerMerchandiseReturns.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL01lcmNoYW5kaXNlUmV0dXJuL0N1c3RvbWVyTWVyY2hhbmRpc2VSZXR1cm5zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/News/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL05ld3MvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/News/NewsItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL05ld3MvTmV3c0l0ZW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Order/CustomerOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL09yZGVyL0N1c3RvbWVyT3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Order/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL09yZGVyL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Product/CompareProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1Byb2R1Y3QvQ29tcGFyZVByb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Product/Components/ProductReviews/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1Byb2R1Y3QvQ29tcG9uZW50cy9Qcm9kdWN0UmV2aWV3cy9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Product/Components/ProductReviews/Partials/ProductReview.Modal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1Byb2R1Y3QvQ29tcG9uZW50cy9Qcm9kdWN0UmV2aWV3cy9QYXJ0aWFscy9Qcm9kdWN0UmV2aWV3Lk1vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Product/NewProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1Byb2R1Y3QvTmV3UHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Product/Partials/AddToCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1Byb2R1Y3QvUGFydGlhbHMvQWRkVG9DYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Product/Partials/AddToWishlist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1Byb2R1Y3QvUGFydGlhbHMvQWRkVG9XaXNobGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Product/Partials/Breadcrumbs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1Byb2R1Y3QvUGFydGlhbHMvQnJlYWRjcnVtYnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Product/Partials/Pictures.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1Byb2R1Y3QvUGFydGlhbHMvUGljdHVyZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Product/Partials/ProductAttributes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1Byb2R1Y3QvUGFydGlhbHMvUHJvZHVjdEF0dHJpYnV0ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Product/Partials/ProductsComparison.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1Byb2R1Y3QvUGFydGlhbHMvUHJvZHVjdHNDb21wYXJpc29uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Product/Partials/ProductTags.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1Byb2R1Y3QvUGFydGlhbHMvUHJvZHVjdFRhZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Product/Partials/SendFriend.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1Byb2R1Y3QvUGFydGlhbHMvU2VuZEZyaWVuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Product/ProductEmailAFriend.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1Byb2R1Y3QvUHJvZHVjdEVtYWlsQUZyaWVuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Product/ProductLayout.Grouped.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1Byb2R1Y3QvUHJvZHVjdExheW91dC5Hcm91cGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Product/ProductLayout.Simple.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1Byb2R1Y3QvUHJvZHVjdExheW91dC5TaW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Product/RecentlyViewedProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1Byb2R1Y3QvUmVjZW50bHlWaWV3ZWRQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/BlogPostProducts/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL0Jsb2dQb3N0UHJvZHVjdHMvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/CategoryFeaturedProducts/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL0NhdGVnb3J5RmVhdHVyZWRQcm9kdWN0cy9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/CollectionFeaturedProducts/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL0NvbGxlY3Rpb25GZWF0dXJlZFByb2R1Y3RzL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/CollectionNavigation/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL0NvbGxlY3Rpb25OYXZpZ2F0aW9uL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/CustomerNavigation/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL0N1c3RvbWVyTmF2aWdhdGlvbi9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/CustomerRecommendedProducts/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL0N1c3RvbWVyUmVjb21tZW5kZWRQcm9kdWN0cy9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/Footer/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL0Zvb3Rlci9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/HomePageBestSellers/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL0hvbWVQYWdlQmVzdFNlbGxlcnMvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/HomePageBlog/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL0hvbWVQYWdlQmxvZy9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/HomePageBrands/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL0hvbWVQYWdlQnJhbmRzL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/HomePageCategories/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL0hvbWVQYWdlQ2F0ZWdvcmllcy9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/HomePageNewProducts/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL0hvbWVQYWdlTmV3UHJvZHVjdHMvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/HomePageNews/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL0hvbWVQYWdlTmV3cy9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/HomePageProducts/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL0hvbWVQYWdlUHJvZHVjdHMvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/Menu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL01lbnUvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/PageBlock/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL1BhZ2VCbG9jay9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/PersonalizedProducts/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL1BlcnNvbmFsaXplZFByb2R1Y3RzL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/ProductsAlsoPurchased/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL1Byb2R1Y3RzQWxzb1B1cmNoYXNlZC9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/RecentlyViewedProductsBlock/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL1JlY2VudGx5Vmlld2VkUHJvZHVjdHNCbG9jay9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/RecommendedProducts/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL1JlY29tbWVuZGVkUHJvZHVjdHMvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/RelatedProducts/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL1JlbGF0ZWRQcm9kdWN0cy9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/SearchBox/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL1NlYXJjaEJveC9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/SimilarProducts/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL1NpbWlsYXJQcm9kdWN0cy9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Components/SuggestedProducts/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9Db21wb25lbnRzL1N1Z2dlc3RlZFByb2R1Y3RzL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Head.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9IZWFkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Partials/CatalogProductView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9QYXJ0aWFscy9DYXRhbG9nUHJvZHVjdFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Partials/CategoryLine.Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9QYXJ0aWFscy9DYXRlZ29yeUxpbmUuTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Partials/Logo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9QYXJ0aWFscy9Mb2dvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Partials/NewsletterBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9QYXJ0aWFscy9OZXdzbGV0dGVyQm94LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Partials/PopupAddToCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9QYXJ0aWFscy9Qb3B1cEFkZFRvQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Partials/ProductBoxListVue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9QYXJ0aWFscy9Qcm9kdWN0Qm94TGlzdFZ1ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Partials/ProductBoxVue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9QYXJ0aWFscy9Qcm9kdWN0Qm94VnVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Partials/ProductQuickView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9QYXJ0aWFscy9Qcm9kdWN0UXVpY2tWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Partials/QuickView/AddToCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9QYXJ0aWFscy9RdWlja1ZpZXcvQWRkVG9DYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Partials/QuickView/AddToWishlist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9QYXJ0aWFscy9RdWlja1ZpZXcvQWRkVG9XaXNobGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Partials/QuickView/Attributes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9QYXJ0aWFscy9RdWlja1ZpZXcvQXR0cmlidXRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Partials/QuickView/LinkedProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9QYXJ0aWFscy9RdWlja1ZpZXcvTGlua2VkUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Partials/QuickView/ProductsComparison.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9QYXJ0aWFscy9RdWlja1ZpZXcvUHJvZHVjdHNDb21wYXJpc29uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Partials/QuickView/SendFriend.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9QYXJ0aWFscy9RdWlja1ZpZXcvU2VuZEZyaWVuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Partials/QuickView/Warehouses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9QYXJ0aWFscy9RdWlja1ZpZXcvV2FyZWhvdXNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Partials/ShoppingCartLinks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9QYXJ0aWFscy9TaG9wcGluZ0NhcnRMaW5rcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Partials/SidebarCompareProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9QYXJ0aWFscy9TaWRlYmFyQ29tcGFyZVByb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Partials/SidebarShoppingCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9QYXJ0aWFscy9TaWRlYmFyU2hvcHBpbmdDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/Partials/SidebarWishlist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9QYXJ0aWFscy9TaWRlYmFyV2lzaGxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9fTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Shared/_TwoColumns.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1NoYXJlZC9fVHdvQ29sdW1ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/ShoppingCart/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1Nob3BwaW5nQ2FydC9DYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/Wishlist/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL1dpc2hsaXN0L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL19WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pvbrto/Desenvolvimento/Grandnode2-2.2.0_Source/src/Plugins/Theme.Modern/Views/Modern/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW9kZXJuL19WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
